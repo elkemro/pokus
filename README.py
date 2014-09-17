@@ -1,2 +1,1 @@
-pokus
-=====
+print("pokus")
